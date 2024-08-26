@@ -13,7 +13,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit thi
 <body>
     <div class="container my-5">
         <h2 class="text-center">Crear una Cuenta</h2>
-        <form action="registro" method="post" class="needs-validation" novalidate>
+        <form action="MiServlet" method="post" class="needs-validation" novalidate>
             <!-- Validación del Nombre -->
             <div class="mb-3">
                 <label for="nombre" class="form-label">Nombre:</label>
